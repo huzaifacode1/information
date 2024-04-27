@@ -1,0 +1,31 @@
+h1{
+    background-color: aquamarine;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    text-align: center;
+}
+table{
+    border: 1px solid;
+    margin-top: -20px;
+    text-align: center;
+
+}
+img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+tr,td{
+    border: 1px solid;
+    border-style: groove;
+    cursor: pointer;
+}
+img:hover{
+ height: 100px;
+ width: 100px;  
+}
+td:hover{
+    font-size: 20px;
+ 
+}
